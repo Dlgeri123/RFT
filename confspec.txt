@@ -1,9 +1,10 @@
 Calculator
 
-1. Áttekintés
+1. ÃttekintÃ©s
+  -tizedes jegy hasznÃ¡lata
 
 2. Jelenlegi helyzet
 
-3. Funkcionális köv.
+3. FunkcionÃ¡lis kÃ¶v.
 
-4. Tech.-i köv.
+4. Tech.-i kÃ¶v.
