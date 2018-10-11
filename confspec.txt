@@ -1,7 +1,7 @@
 Calculator
 
 1. Áttekintés
-
+	jelenleg a négy alapmûveletet tudjuk elvégezni,amelybõl levezethetõ az összes többi mûvelet,amiknek a specifikációja késõbb történik,amikor a csapat újra képviseli magát
 2. Jelenlegi helyzet
 	-- szomorú a helyzet
 
