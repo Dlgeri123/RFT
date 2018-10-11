@@ -1,0 +1,6 @@
+Egy számológépet szeretnénk piacra dobni,ami egyszerû küllemével és egyszerûségével nagy letöltésszámot tud produkálni.
+
+
+kövspec --- a megrendelõtõl , mit kéne tudni
+funkcionális spec   --ez a válasz a kövspecre
+rendszerterv-- szerzõdés aláírás után

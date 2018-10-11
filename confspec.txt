@@ -3,6 +3,7 @@ Calculator
 1. Áttekintés
 
 2. Jelenlegi helyzet
+	-- szomorú a helyzet
 
 3. Funkcionális köv.
 
