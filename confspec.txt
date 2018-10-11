@@ -1,10 +1,16 @@
 Calculator
 
-1. Áttekintés
-	jelenleg a négy alapmûveletet tudjuk elvégezni,amelybõl levezethetõ az összes többi mûvelet,amiknek a specifikációja késõbb történik,amikor a csapat újra képviseli magát
+1. ÃttekintÃ©s
+<<<<<<< .mine
+	jelenleg a nÃ©gy alapmÅ±veletet tudjuk elvÃ©gezni,amelybÅ‘l levezethetÅ‘ az Ã¶sszes tÃ¶bbi mÅ±velet,amiknek a specifikÃ¡ciÃ³ja kÃ©sÅ‘bb tÃ¶rtÃ©nik,amikor a csapat Ãºjra kÃ©pviseli magÃ¡t
+
+=======
+  -tizedes jegy hasznÃ¡lata
+
+>>>>>>> .theirs
 2. Jelenlegi helyzet
-	-- szomorú a helyzet
+	-- szomorÃº a helyzet
 
-3. Funkcionális köv.
+3. FunkcionÃ¡lis kÃ¶v.
 
-4. Tech.-i köv.
+4. Tech.-i kÃ¶v.
