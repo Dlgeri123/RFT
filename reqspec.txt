@@ -1,6 +1,8 @@
 Egy számológépet szeretnénk piacra dobni,ami egyszerû küllemével és egyszerûségével nagy letöltésszámot tud produkálni.Két módja lenne:
  -- az egyik egy egyszerû,átlagos kalkulátor, amely csak a négy alapmûveletet tartalmazná ,amely az átlagos felhasználóknak elég lenne
 -- és lenne egy tudományos rész, amely kifejezetten a diákokat, tanárokat és egyéb felsõbb szintû számításokat végzõknek ajánlunk
+ -- mindezt úgy kellene,hogy a két kis banneren el tudnánk helyezni reklámokat, bevétel generálás céljából
+-- mindezt szeretnénk Java vagy C# kódban kérni, max 500000 Forint értékben
 
 
 kövspec --- a megrendelõtõl , mit kéne tudni, hogy 
