@@ -1,0 +1,8 @@
+Egy számológépet szeretnénk piacra dobni,ami egyszerû küllemével és egyszerûségével nagy letöltésszámot tud produkálni.Két módja lenne:
+ -- az egyik egy egyszerû,átlagos kalkulátor, amely csak a négy alapmûveletet tartalmazná ,amely az átlagos felhasználóknak elég lenne
+-- és lenne egy tudományos rész, amely kifejezetten a diákokat, tanárokat és egyéb felsõbb szintû számításokat végzõknek ajánlunk
+
+
+kövspec --- a megrendelõtõl , mit kéne tudni, hogy 
+funkcionális spec   --ez a válasz a kövspecre árajánlat
+rendszerterv-- szerzõdés aláírás után

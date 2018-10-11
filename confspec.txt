@@ -1,10 +1,17 @@
-Calculator
+﻿Calculator
 
 1. Áttekintés
+	egy számológépet fejlesztünk, két móddal,amelyben az egyszerű mód lesz az elsőnek kifejlesztett 
+	amelyet a tudományos rész fog követni
+	
+
+=======
   -tizedes jegy használata
 
+>>>>>>> .theirs
 2. Jelenlegi helyzet
-
+	-- szomorú a helyzet
+	jelenleg a négy alapműveletet tudjuk elvégezni,amelyből levezethető az összes többi művelet,amiknek a 	specifikációja később történik,amikor a csapat újra képviseli magát
 3. Funkcionális köv.
 
 4. Tech.-i köv.
