@@ -13,5 +13,7 @@
 	-- szomorú a helyzet
 	jelenleg a négy alapműveletet tudjuk elvégezni,amelyből levezethető az összes többi művelet,amiknek a 	specifikációja később történik,amikor a csapat újra képviseli magát
 3. Funkcionális köv.
+>> mondjuk windows form application, vagy wpf applikáció
+egy előnézetet tervezünk majd project pencil-el
 
 4. Tech.-i köv.
