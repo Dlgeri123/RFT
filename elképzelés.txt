@@ -1,3 +1,7 @@
 A számológép programozását 4 részre osztjuk fel, mivel 4 fõs a csoportunk.
 Elsõként megcsinálhatjuk a számológép kinézetét, elõször Project pencil-el, majd wpf vagy wfa.
 Legyen ez az alap szerintem.
+
+Próba
+Letöltöttem a pencil projectet, hamarosan feldobom amit megcsináltam.
+Alakítsatok rajta ha úgy van, már pedig általában úgy van.
