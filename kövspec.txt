@@ -10,3 +10,5 @@ Jelenlegi helyzet leírása.
 - Követelménylista.
 - Irányított és szabad szöveges riportok szövege.
 - Fogalomszótár.
+
+Jelenlegi helyzet leírása : 1. szempont leírása
