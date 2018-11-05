@@ -11,4 +11,32 @@ Jelenlegi helyzet leírása.
 - Irányított és szabad szöveges riportok szövege.
 - Fogalomszótár.
 
-Jelenlegi helyzet leírása : 1. szempont leírása
+Jelenlegi helyzet leírása : Vágyálomrendszer szempont leírása
+
+Hajlandóság a csapatmunkára.
+
+Feladatok felosztása, majd azok elkészítése időben.
+
+Gördülékeny munkavégzés csapaton belül.
+
+A projekt leggyorsabb teljesítése csapatmunkával, a lehető legkevesebb fennakadással.
+
+Vágyálmunk továbbá hogy az elkészült szoftverünk kódja tiszta és átlátható legyen úgy, hogy
+közben minden igényt kielégítsen.
+
+Alkalmazásunk felülete legyen letisztult. Kinézetre és a gombok elrendezésére hasonlítson egy általunk kiválasztott 
+mintára.
+
+Legyen felhasználóbarát, elrendezésre a lehető legegyszerűbb, hogy bárki használhassa szoftverünket.
+
+Minden funkciót képes legyen ellátni a számológépünk, amihez a jelenlegi tudásunk elegendő.
+
+Kódunk legyen flexibilis, tehát nyitott a módosításra és funkcióbőcítésre, hiszen a program kódja állandóan változik.
+
+A metódusok legyenek a lehető legegyszerűbbek, hogy a program futási idejét minimalizáljuk.
+
+Törökvés a helyességre, használhatóságra.
+
+Legnagyobb vágyunk hogy képes legyen néhány egyszerűbb integrál és derivált kiszámítására.
+
+2-es gyakorlati jegy megszerzése.
