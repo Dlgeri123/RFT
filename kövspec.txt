@@ -11,7 +11,7 @@ Jelenlegi helyzet leírása.
 - Irányított és szabad szöveges riportok szövege.
 - Fogalomszótár.
 
-Jelenlegi helyzet leírása : Vágyálomrendszer szempont leírása
+Jelenlegi helyzet leírása : Rendszerre vonatkozó szabályok szabályok megfogalmazása
 
 Hajlandóság a csapatmunkára.
 Feladatok felosztása, majd azok elkészítése időben.
