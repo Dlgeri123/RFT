@@ -13,6 +13,7 @@ Jelenlegi helyzet leírása.
 
 Jelenlegi helyzet leírása : Rendszerre vonatkozó szabályok szabályok megfogalmazása
 
+1. Vágyálomrendszer
 Hajlandóság a csapatmunkára.
 Feladatok felosztása, majd azok elkészítése időben.
 Gördülékeny munkavégzés csapaton belül.
@@ -28,3 +29,14 @@ A metódusok legyenek a lehető legegyszerűbbek, hogy a program futási idejét
 Törökvés a helyességre, használhatóságra.
 Legnagyobb vágyunk hogy képes legyen néhány egyszerűbb integrál és derivált kiszámítására.
 2-es gyakorlati jegy megszerzése.
+
+2. A rendszerre vonatkozó szabályok
+--Tanárúr követelményei alapján.
+  1. A projekt megalkotásánál a csapatmunkán van a hangsúly. Mindenki köteles kivenni részét a munkából és időre elvégezni a rá     kiszabott feladatokat.
+  2. A feladatok felosztását az erre létrehozott Trello táblában végezzük el, ehhez címkéket is használunk.
+  3. Verziókövető rendszer használata kötelező.
+  4. A dokumentáció prioritása a legnagyobb, ez alapján kell elkészíteni a programkódot.
+  5. A dokumentáció követelményspecifikációból, valamint rendszerspecifikációból áll.
+  6. Az órán vett módszertanokat és elveket kell felhasználnunk a projekt elkészítése során.
+  7. A dokumentumok elkészítésének nyomonkövethetőnek kell lennie.
+  8. A változásokat commit formájában kell rögzítenünk, melynek leírásának utalnia kell az elvégzett változásra.
