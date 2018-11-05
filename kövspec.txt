@@ -56,3 +56,14 @@ Minimálisan teljesítendő követelmények:
 -négyzetre emelés (INT típus, DOUBLE típus)
 -szögfüggvények kezelése (INT típus, DOUBLE típus)
 -a fent említett 2 típuson kívül képes legyen nagy értékű (LONG) számok kezelésére is
+
+A program legyen: 
+-megbízható (stabil, fagyásmentes futás)
+-hordozható (alacsony tárigény)
+-gyors (másodperceken belül hozza az eredményt)
+-karbatartható (változó igényeknek megfelelően alakítható)
+-bővíthető (képes legyen új funkciók befogadására)
+-újrahasznosítható 
+-könnyen letölhető
+A számológép ne tartalmazzon sok funkciót, hiszen az a felhasználó összezavarásához vezethet, sérülne a felhasználóbarát
+vágyálmunk teljesítése.
