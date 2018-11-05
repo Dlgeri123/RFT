@@ -40,3 +40,5 @@ Legnagyobb vágyunk hogy képes legyen néhány egyszerűbb integrál és deriv�
   6. Az órán vett módszertanokat és elveket kell felhasználnunk a projekt elkészítése során.
   7. A dokumentumok elkészítésének nyomonkövethetőnek kell lennie.
   8. A változásokat commit formájában kell rögzítenünk, melynek leírásának utalnia kell az elvégzett változásra.
+5. Jelenlegi üzleti folyamatok modellje
+6. Igényelt üzleti folyamatok modellje
