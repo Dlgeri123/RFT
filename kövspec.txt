@@ -24,7 +24,7 @@ Alkalmazásunk felülete legyen letisztult. Kinézetre és a gombok elrendezés�
 mintára.
 Legyen felhasználóbarát, elrendezésre a lehető legegyszerűbb, hogy bárki használhassa szoftverünket.
 Minden funkciót képes legyen ellátni a számológépünk, amihez a jelenlegi tudásunk elegendő.
-Kódunk legyen flexibilis, tehát nyitott a módosításra és funkcióbőcítésre, hiszen a program kódja állandóan változik.
+Kódunk legyen flexibilis, tehát nyitott a módosításra és funkcióbővítésre, hiszen a program kódja állandóan változik.
 A metódusok legyenek a lehető legegyszerűbbek, hogy a program futási idejét minimalizáljuk.
 Törökvés a helyességre, használhatóságra.
 Legnagyobb vágyunk hogy képes legyen néhány egyszerűbb integrál és derivált kiszámítására.
@@ -56,6 +56,8 @@ Minimálisan teljesítendő követelmények:
 -négyzetre emelés (INT típus, DOUBLE típus)
 -szögfüggvények kezelése (INT típus, DOUBLE típus)
 -a fent említett 2 típuson kívül képes legyen nagy értékű (LONG) számok kezelésére is
+-egyszerű metódusok,tehát függvények és eljárások használata
+-öröklődés használata
 
 A program legyen: 
 -megbízható (stabil, fagyásmentes futás)
@@ -69,3 +71,12 @@ A számológép ne tartalmazzon sok funkciót, hiszen az a felhasználó összez
 vágyálmunk teljesítése.
 
 8. Fogalomszótár
+-Futási idő: program végrehajtásához szükséges idő
+-Trello: webalapú projekt menedzsment applikáció
+-verziókövető rendszer: több verzióval rendelkező adatok kezelése (github)
+-módszertan: Alkalmazási mód, amelyet egy cél elérése érdekében tudatosan felhasználunk, eljárások és módszerek összessége
+-commit: változtatások elmentése oly módon, hogy visszakövethető legyen ki és mit módosított
+-metódus: olyan eljárás vagy függvény, amelyet az objektumon belül deklarálunk ami szorosan kapcsolódik az objektumhoz
+-eljárás: egy olyan alprogram, amely hatását paramétereinek, környezetének vagy mindkettőnek megváltoztatásával fejti ki
+-függvény: olyan programkód-részletet, ami valamilyen eredményt szolgáltat
+-Munkafolyamat (Workflow): azoknak a lépéseknek a sorozata, amelyeket egy cél elérése érdekében meg kell valósítani
