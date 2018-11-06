@@ -28,6 +28,7 @@ Kódunk legyen flexibilis, tehát nyitott a módosításra és funkcióbővíté
 A metódusok legyenek a lehető legegyszerűbbek, hogy a program futási idejét minimalizáljuk.
 Törökvés a helyességre, használhatóságra.
 Legnagyobb vágyunk hogy képes legyen néhány egyszerűbb integrál és derivált kiszámítására.
+GUI megtervezése Project Pencil-el
 2-es gyakorlati jegy megszerzése.
 
 2. A rendszerre vonatkozó szabályok
