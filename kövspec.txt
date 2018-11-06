@@ -67,3 +67,5 @@ A program legyen:
 -könnyen letölhető
 A számológép ne tartalmazzon sok funkciót, hiszen az a felhasználó összezavarásához vezethet, sérülne a felhasználóbarát
 vágyálmunk teljesítése.
+
+8. Fogalomszótár
