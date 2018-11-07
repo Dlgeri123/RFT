@@ -75,7 +75,6 @@ Minimálisan teljesítendő követelmények:
 -szögfüggvények kezelése (INT típus, DOUBLE típus)
 -a fent említett 2 típuson kívül képes legyen nagy értékű (LONG) számok kezelésére is
 -egyszerű metódusok,tehát függvények és eljárások használata
--öröklődés használata
 
 A program legyen: 
 -megbízható (stabil, fagyásmentes futás)
