@@ -44,6 +44,8 @@ GUI megtervezése Project Pencil-el
  
 5. Jelenlegi üzleti folyamatok modellje
 
+Képzeletbeli vevő követelményei <----> Információk feldolgozása
+
 6. Igényelt üzleti folyamatok modellje
 
  Képzeletbeli vevő követelményei <----> Információk feldolgozása ----> Munkafolyamat, ütemterv megszervezése ---->
