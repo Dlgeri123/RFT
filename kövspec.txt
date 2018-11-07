@@ -52,6 +52,17 @@ Képzeletbeli vevő követelményei <----> Információk feldolgozása
  
  Mérés, elemzés ----> Kódolás ----> Tesztelés ----> Termék átadása
 
+ Vízesés modell
+ 
+ Szükségletek felmérése __
+                          |
+                          -->Rendszer és szoftvertervezés __
+                                                           |
+                                                            --> Impelemntáció__
+                                                                               |
+                                                                               -->Tesztelés__
+                                                                                             |
+                                                                                             -->Üzembehelyezés és karbantartás
 7. Követelménylista
 
 Minimálisan teljesítendő követelmények:
