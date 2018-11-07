@@ -50,7 +50,9 @@ Képzeletbeli vevő követelményei <----> Információk feldolgozása
 
  Képzeletbeli vevő követelményei <----> Információk feldolgozása ----> Munkafolyamat, ütemterv megszervezése ---->
  
- Mérés, elemzés ----> Kódolás ----> Tesztelés ----> Termék átadása
+ Mérés, elemzés ----> Kódolás ----> Prototípus létrehozása ---> bemutatás, információ visszacsatolás---->
+ 
+ Tesztelés ----> Termék átadása ----> Vevői elégedettség
 
  Vízesés modell
  
