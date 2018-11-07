@@ -46,6 +46,10 @@ GUI megtervezése Project Pencil-el
 
 6. Igényelt üzleti folyamatok modellje
 
+ Képzeletbeli vevő követelményei <----> Információk feldolgozása ----> Munkafolyamat, ütemterv megszervezése ---->
+ 
+ Mérés, elemzés ----> Kódolás ----> Tesztelés ----> Termék átadása
+
 7. Követelménylista
 
 Minimálisan teljesítendő követelmények:
