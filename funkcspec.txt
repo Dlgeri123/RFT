@@ -48,4 +48,16 @@ A program legyen:
 7. Képernyőtervek.
 8. Forgatókönyvek.
 9. Funkció – követelmény megfeleltetés.
+
 10. Fogalomszótár.
+
+-Futási idő: program végrehajtásához szükséges idő
+-Trello: webalapú projekt menedzsment applikáció
+-verziókövető rendszer: több verzióval rendelkező adatok kezelése (github)
+-módszertan: Alkalmazási mód, amelyet egy cél elérése érdekében tudatosan felhasználunk, eljárások és módszerek összessége
+-commit: változtatások elmentése oly módon, hogy visszakövethető legyen ki és mit módosított
+-metódus: olyan eljárás vagy függvény, amelyet az objektumon belül deklarálunk ami szorosan kapcsolódik az objektumhoz
+-eljárás: egy olyan alprogram, amely hatását paramétereinek, környezetének vagy mindkettőnek megváltoztatásával fejti ki
+-függvény: olyan programkód-részletet, ami valamilyen eredményt szolgáltat
+-Munkafolyamat (Workflow): azoknak a lépéseknek a sorozata, amelyeket egy cél elérése érdekében meg kell valósítani
+
