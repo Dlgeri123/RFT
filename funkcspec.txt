@@ -22,7 +22,28 @@ GUI megtervezése Project Pencil-el
 2. A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása.
 3. Jelenlegi üzleti folyamatok modellje.
 4. Igényelt üzleti folyamatok modellje.
+
 5. Követelménylista.
+Minimálisan teljesítendő követelmények:
+-összeadás (INT típus, DOUBLE típus)
+-kivonás (INT típus, DOUBLE típus)
+-szorzás (INT típus, DOUBLE típus)
+-osztás (INT típus, DOUBLE típus)
+-gyökvonás (INT típus, DOUBLE típus)
+-négyzetre emelés (INT típus, DOUBLE típus)
+-szögfüggvények kezelése (INT típus, DOUBLE típus)
+-a fent említett 2 típuson kívül képes legyen nagy értékű (LONG) számok kezelésére is
+-egyszerű metódusok,tehát függvények és eljárások használata
+
+A program legyen: 
+-megbízható (stabil, fagyásmentes futás)
+-hordozható (alacsony tárigény)
+-gyors (másodperceken belül hozza az eredményt)
+-karbatartható (változó igényeknek megfelelően alakítható)
+-bővíthető (képes legyen új funkciók befogadására)
+-újrahasznosítható 
+-könnyen letölhető
+
 6. Használati esetek.
 7. Képernyőtervek.
 8. Forgatókönyvek.
