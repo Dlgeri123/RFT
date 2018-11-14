@@ -41,6 +41,16 @@ GUI megtervezése Project Pencil-el
   6. Az órán vett módszertanokat és elveket kell felhasználnunk a projekt elkészítése során.
   7. A dokumentumok elkészítésének nyomonkövethetőnek kell lennie.
   8. A változásokat commit formájában kell rögzítenünk, melynek leírásának utalnia kell az elvégzett változásra.
+  
+GDPR
+  
+Mielőtt bármilyen adatot bekér tőlünk egy szervezet, pontos tájékoztatást kell adnia, hogy mi az adatkezelés célja
+hogyan kezeli az adatokat vagy például kik férhetnek hozzá.
+Egy adatbázisból kérésünk esetén például e-mail-címünk törlésének elmaradása az eddigieknél jobban számonkérhető, szankcionálható lesz
+Az új jogszabályok magas bírságokkal kényszerítik ki a biztonságos adatkezelést, vagyis azt, hogy személyes adatainkhoz ne férhessenek hozzá illetéktelenek. 
+A bíró gyakorlat még hiányzik, de a bírság akár 20 millió euró vagy az éves árbevétel 4 %- a is lehet
+Olyan eseteket is szabályoz és szankcionál a rendelkezés, amikor például egy hackertámadás következtében személyes adataink kikerülnek az adatkezelő rendszeréből, ellopják azokat vagy ha egy rendszerhiba miatt megsemmisülnek. Nagyobb lesz a felelősség az adatkezelőkön
+
  
 5. Jelenlegi üzleti folyamatok modellje
 
